@@ -39,20 +39,21 @@ def _():
 
 @app.cell
 def _(base_url, os, requests):
-    def save(href, bar=None):
+    def save(href, bar=None, overwrite=False):
         r = requests.get(f"{base_url}{href}", allow_redirects=True)
 
         url = r.url
         path = "archives/"+"/".join(url.split('/')[6:-1])+"/"
         filename = url.split('/')[-1]
 
-        os.makedirs(path, exist_ok=True)
-        open(path+filename, "wb").write(r.content)
-        
-        
+        if not os.path.isfile(path+filename) or overwrite:
+            os.makedirs(path, exist_ok=True)
+            open(path+filename, "wb").write(r.content)
+
+
         if bar != None:
             bar.update()
-        
+
         return (url, path, filename)
     return (save,)
 
@@ -88,11 +89,6 @@ def _(index, mo, save):
 @app.cell
 def _(files):
     files.to_csv('files.csv', index=False)
-    return
-
-
-@app.cell
-def _():
     return
 
 
