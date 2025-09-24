@@ -73,11 +73,11 @@ def _(BeautifulSoup, base, headers, requests):
         #     html = BeautifulSoup(page.content(), "html.parser")
         #     #print(html)
         #     browser.close()
-        
+
         pdf = html.find_all("a", {"class": "pdf_download"})
 
         #print([ { "name": a.text, "url": a['href'] } for a in pdf ])
-        
+
         return ([
             {
                 "name": a.text,
@@ -117,7 +117,38 @@ def _(index):
 
 @app.cell
 def _(index):
-    index
+    index_sorted = (
+        index
+        .assign(
+            id = lambda df: (
+                df.name
+                .str.strip()
+                .str.replace(" ", "-")
+                .str.split("-")
+                .apply(lambda x: x[0])
+                #.astype('int')
+            )
+        )
+        .sort_values('id')
+    )
+    return (index_sorted,)
+
+
+@app.cell
+def _(index_sorted):
+    index_sorted
+    return
+
+
+@app.cell
+def _(index_sorted):
+    index_sorted.query("id.duplicated()")
+    return
+
+
+@app.cell
+def _(index_sorted):
+    index_sorted.query("id.str.contains('-')")
     return
 
 
