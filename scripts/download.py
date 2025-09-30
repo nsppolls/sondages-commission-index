@@ -111,8 +111,20 @@ def _(files_current, index):
         #.pipe(get_files)
     )
 
+
+    return (index_new,)
+
+
+@app.cell
+def _(index_new):
+    index_new
+    return
+
+
+@app.cell
+def _(files_current, index_new):
     if (len(index_new) > 0):
-        files_new = index.pipe(get_files)
+        files_new = index_new.pipe(get_files)
     else:
         files_new = pd.DataFrame()
     
@@ -125,6 +137,11 @@ def _(files_current, index):
 @app.cell
 def _(files):
     files.to_csv('files.csv', index=False)
+    return
+
+
+@app.cell
+def _():
     return
 
 
