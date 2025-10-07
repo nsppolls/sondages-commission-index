@@ -1,3 +1,30 @@
 ---
 on:
   workflow_dispatch:
+  schedule:
+    cron: "0 6 * * *"
+
+jobs:
+  scrap_index_and_files:
+    runs-on: "codeberg-tiny"
+    steps:
+      - uses: "actions/checkout@v4"
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: "actions/setup-python@v2"
+        with:
+          python-version: "3.9"
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/scrap.py
+      - run: python scripts/download.py
+      - name: "commit"
+        shell: bash
+        run: |
+          git config --global user.name "codeberg-actions[bot]"
+          git config --global user.email "tk@renard.ninja"
+          git config pull.rebase false
+          git status
+          git pull origin $GITHUB_REF
+          git add "*.csv"
+          git add "archives/**/*.pdf"
+          git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true

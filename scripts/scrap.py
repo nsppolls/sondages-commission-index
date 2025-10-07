@@ -8,7 +8,7 @@ with app.setup:
     import pandas as pd
     import requests
     from bs4 import BeautifulSoup
-    from playwright.sync_api import sync_playwright
+    #from playwright.sync_api import sync_playwright
 
     from datetime import datetime
 
