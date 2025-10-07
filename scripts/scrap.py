@@ -81,10 +81,13 @@ def _(current_year):
     index = (
         pd
         .concat([
+            
             pd
             .DataFrame
             .from_records(list_year(year))
             .assign(year=year)
+            .iloc[::-1]
+
             for year in range(2016, current_year+1)
         ])
     )
