@@ -7,6 +7,7 @@ with app.setup:
     import marimo as mo
     import pandas as pd
     import requests
+    from pypdf import PdfReader
     import pprint
     import os
 
@@ -28,25 +29,33 @@ def _(index):
 @app.function
 def save(href, bar=None, overwrite=False):
     r = requests.get(f"{base_url}{href}", allow_redirects=True)
-
+    
     url = r.url
     path = "archives/"+"/".join(url.split('/')[6:-1])+"/"
     filename = url.split('/')[-1]
+    last_modified = r.headers['last-modified'] if 'last-modified' in r.headers else None
+    creation_date = None
 
     if not os.path.isfile(path+filename) or overwrite:
         os.makedirs(path, exist_ok=True)
         open(path+filename, "wb").write(r.content)
 
+        try:
+            pdf = PdfReader(path+filename)
+            creation_date = pdf.metadata.creation_date
+        except:
+            print("problème avec le pdf : "+path+filename)
+
 
     if bar != None:
         bar.update()
 
-    return (url, path, filename)
+    return (url, path, filename, pd.to_datetime(last_modified), pd.to_datetime(creation_date))
 
 
 @app.cell
 def _():
-    save('/notices/medias/fichiers/add/162')
+    save('/notices/medias/fichiers/add/162', overwrite=True)
     return
 
 
@@ -62,14 +71,20 @@ def _(files_current):
     return
 
 
+@app.cell
+def _(files_current):
+    files_current.query('`pdf creation-date`.isna()')
+    return
+
+
 @app.function
-def get_files(index):
+def get_files(index, overwrite=False):
     with mo.status.progress_bar(total=len(index)) as bar:
         files = (
             index
             #.iloc[0:10]
             .apply(
-                lambda x: save(x.href, bar=bar),
+                lambda x: save(x.href, bar=bar, overwrite=overwrite),
                 axis=1,
                 result_type='expand',
             )
@@ -77,7 +92,9 @@ def get_files(index):
                 columns = {
                     0: 'url',
                     1: 'path_local',
-                    2: 'filename'
+                    2: 'filename',
+                    3: 'http last-modified',
+                    4: 'pdf creation-date'
                 }
             )
             .join(index[['name']])
@@ -89,15 +106,15 @@ def get_files(index):
 @app.cell
 def _(index):
     def get_all():
-        files_all = get_files(index)
+        files_all = get_files(index, overwrite=True)
         files_all.to_csv('files.csv', index=False)
         return files_all
-    return
+    return (get_all,)
 
 
 @app.cell
-def _():
-    #get_all()
+def _(get_all):
+    get_all()
     return
 
 
@@ -110,7 +127,6 @@ def _(files_current, index):
         .query("~name.isin(@files_current.name)")
         #.pipe(get_files)
     )
-
 
     return (index_new,)
 
@@ -127,7 +143,7 @@ def _(files_current, index_new):
         files_new = index_new.pipe(get_files)
     else:
         files_new = pd.DataFrame()
-    
+
     files = pd.concat([files_current, files_new])
 
     files

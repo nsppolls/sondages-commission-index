@@ -2,3 +2,4 @@ marimo
 requests
 pandas
 beautifulsoup4
+pypdf
