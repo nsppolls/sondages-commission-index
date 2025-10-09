@@ -29,7 +29,7 @@ def _(index):
 @app.function
 def save(href, bar=None, overwrite=False):
     r = requests.get(f"{base_url}{href}", allow_redirects=True)
-    
+
     url = r.url
     path = "archives/"+"/".join(url.split('/')[6:-1])+"/"
     filename = url.split('/')[-1]
@@ -109,12 +109,12 @@ def _(index):
         files_all = get_files(index, overwrite=True)
         files_all.to_csv('files.csv', index=False)
         return files_all
-    return (get_all,)
+    return
 
 
 @app.cell
-def _(get_all):
-    get_all()
+def _():
+    #get_all()
     return
 
 
@@ -127,7 +127,6 @@ def _(files_current, index):
         .query("~name.isin(@files_current.name)")
         #.pipe(get_files)
     )
-
     return (index_new,)
 
 
