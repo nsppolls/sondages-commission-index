@@ -14,27 +14,34 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 [github]: https://github.com/nsppolls/sondages-commission-index
 
 
-## données
+## données et flux
+
 |         fichier           |  contenu                  |
 |--------------------|--------------------|
-|         `base.csv`           |  liste des sondages référencés sur le site de la commission                   |
-|         `files.csv`           | liste des fichiers `pdf` correspondant aux sondages avec quelques métadonnées au passage.                   |
+|         [`base.csv`]           |  liste des sondages référencés sur le site de la commission                   |
+|         [`files.csv`]           | liste des fichiers `pdf` correspondant aux sondages avec quelques métadonnées au passage.                   |
+| [`sondages-commission-index.rss`]| tous les changements sur ce dépôt en attendant un fil `rss` comme il faut|
 
+[`base.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/base.csv
+[`files.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/files.csv
+[`sondages-commission-index.rss`]: https://codeberg.org/nsppolls/sondages-commission-index.rss
 
 ## scripts
 
 |          script          |  contenu                  |
 |--------------------|--------------------|
-| `scripts/scrap.py`                   |     produit le fichier `base.csv`               |
-| `scripts/download.py`                   |  produit le fichier `files.csv` de façon incrémental en récupérant seulement fichiers `pdf` manquants.                  |
+| [`scripts/scrap.py`]                   |     produit le fichier `base.csv`               |
+| [`scripts/download.py`]                   |  produit le fichier `files.csv` de façon incrémental en récupérant seulement fichiers `pdf` manquants                  |
 
+[`scripts/scrap.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/scrap.py
+[`scripts/download.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/download.py
 
 ## automatisation
 
 |  action                  |          récurrence          | description |
 |--------------------|--------------------|---|
-| [scrap-index]                   |  tous les matins à `06:00 UTC`                  | scrape l'index, fait le téléchargement au passage et commit les nouveautés |
+| [scrap-index.yaml]                   |  tous les matins à `06:00 UTC`                  | scrape l'index, fait le téléchargement au passage et commit les nouveautés |
 
-[scrap-index]: https://codeberg.org/nsppolls/sondages-commission-index/actions?workflow=scrap-index.yaml
+[scrap-index.yaml]: https://codeberg.org/nsppolls/sondages-commission-index/actions?workflow=scrap-index.yaml
 
 ## voir aussi
