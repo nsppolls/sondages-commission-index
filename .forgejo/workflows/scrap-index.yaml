@@ -1,4 +1,6 @@
 ---
+name: "indexe et récupère les derniers sondages"
+
 on:
   workflow_dispatch:
   schedule:
