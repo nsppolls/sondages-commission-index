@@ -2,8 +2,8 @@
 
 Ce dépôt contient :
 
- - le code sous forme de notebooks marimo pour produire des données à partir du site de [la commission des sondages].
-- les données
+- le code sous forme de notebooks marimo pour produire des références (sondages publiés et documentation technique des sondages) à partir du site de [la commission des sondages] ;
+- les métadonnées sur les éléments références.
 
 L'actualité des sondages n'étant pas actuellement suractive, les scripts sont éxécutés tous les matins à `06:00 UTC` (Paris : `08:00` heure d'été, `07:00` d'hiver).
 
@@ -45,3 +45,5 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 [scrap-index.yaml]: https://codeberg.org/nsppolls/sondages-commission-index/actions?workflow=scrap-index.yaml
 
 ## voir aussi
+
+- [Liste de sondages sur l'élection présidentielle française de 2027](https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027) · Wikipédia en Français
