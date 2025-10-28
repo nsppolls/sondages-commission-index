@@ -1771,11 +1771,11 @@ name,href,year
 9965 Mun IPSOS Cevipof AMF 2 juillet,/notices/medias/fichiers/add/1947,2025
 9966 Mun Poissy Ifop actu.fr 4 juillet,/notices/medias/fichiers/add/1948,2025
 9967 Mun Odoxa Le Figaro 3 juillet,/notices/medias/fichiers/add/1949,2025
-9968 Leg Ipsos La Tribune dimanche 12 juillet,/notices/medias/fichiers/add/1950,2025
 9969 Mun Montpellier IFOP Midi Libre 15 juillet,/notices/medias/fichiers/add/1951,2025
-9970 Mun transition ecologique IPSOS Idex 17 juillet,/notices/medias/fichiers/add/1952,2025
 9971 Leg Paris IFOP Le Parisien 24 juillet,/notices/medias/fichiers/add/1953,2025
 9972 Mun Paris Cluster 17 Le Parisien 26 juillet,/notices/medias/fichiers/add/1954,2025
+9968 Leg Ipsos BVA La Tribune dimanche 12 juillet,/notices/medias/fichiers/add/1950,2025
+9970 Mun transition ecologique IPSOSBVA Idex 17 juillet,/notices/medias/fichiers/add/1952,2025
 9973 Leg Elabe BFMTV 30 aout,/notices/medias/fichiers/add/1955,2025
 9974 Leg IFOP Le Figaro 2 septembre,/notices/medias/fichiers/add/1956,2025
 9975 Pres Toluna HI Suivi du potentiel électoral V3 Lopinion 3 septembre,/notices/medias/fichiers/add/1957,2025
@@ -1801,8 +1801,11 @@ name,href,year
 9995 Pres Toluna Harris Interactive RTL 8 octobre,/notices/medias/fichiers/add/1977,2025
 9996 Leg IFOP Le Figaro Sud Radio LCI 9 octobre,/notices/medias/fichiers/add/1978,2025
 9997 Mun Lyon VERIAN Mag2Lyon 14 octobre,/notices/medias/fichiers/add/1979,2025
+9998 bis Mun Tours IFOP  La Nouvelle Rep 17 octobre,/notices/medias/fichiers/add/1987,2025
 9998 Mun Tours IFOP Ici Touraine 14 octobre,/notices/medias/fichiers/add/1980,2025
 9999 Mun Saint-Etienne OPINION WAY Le Progres 7 octobre,/notices/medias/fichiers/add/1981,2025
 10000 Mun Brest Cluster17 Le Telegramme 16 octobre,/notices/medias/fichiers/add/1983,2025
 10001 Mun Carpentras IFOP La Provence 16 octobre,/notices/medias/fichiers/add/1982,2025
 10002 Mun Paris VERIAN Le Parisien 22 octobre,/notices/medias/fichiers/add/1985,2025
+10003 Mun Tours CLUSTER 17 La Nouvelle Republique 26 octobre,/notices/medias/fichiers/add/1986,2025
+10004 Leg IFOP IV des patrons TPE 24 octobre,/notices/medias/fichiers/add/1988,2025
