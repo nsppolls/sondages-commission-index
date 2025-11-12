@@ -30,5 +30,6 @@ jobs:
           git status
           git pull origin $GITHUB_REF
           git add "*.csv"
+          git add "*.xml"
           git add "archives/**/*.pdf"
           git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true
