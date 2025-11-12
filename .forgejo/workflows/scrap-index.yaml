@@ -16,9 +16,11 @@ jobs:
       - uses: "actions/setup-python@v2"
         with:
           python-version: "3.9"
+      - run: wget -qO- https://astral.sh/uv/install.sh | sh
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/scrap.py
       - run: python scripts/download.py
+      - run: uv run scripts/build-rss.py
       - name: "commit"
         shell: bash
         run: |
