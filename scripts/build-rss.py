@@ -48,25 +48,29 @@ def _(fg, pd):
                 .read_csv('files.csv')
                 .set_index('name')
             )
-            .sort_values("pdf creation-date", ascending=False)
+            .sort_values("pdf creation-date")
             .query('~url.isna()')
+            .query('~`pdf creation-date`.isna()')
         )
 
         def entry(row, feed):
-            pubdate = pd.to_datetime(row['pdf creation-date'])
+            published = pd.to_datetime(row['pdf creation-date'])
+            updated = pd.to_datetime(row['http last-modified'], utc=True)
 
             try:
                 fe = feed.add_entry()
                 fe.id(row.name)
                 fe.title(row.name)
                 fe.link(href=row['url'])
-                fe.published(published=pubdate)
+                fe.published(published=updated)
+                #fe.updated(updated=updated)
                 fe.description(description=f"""
                 - date de création du pdf : { row['pdf creation-date'] }
                 """)
                 return fe
             except:
-                print(row["pdf creation-date"])
+                print(published)
+                print(updated)
 
 
         feed.entry(entry=[], replace=True)
@@ -81,7 +85,7 @@ def _(entries, fg, fg_metadata):
     fg_metadata
     fg_entries = entries(fg)
 
-    #fg_entries
+    fg_entries
     return (fg_entries,)
 
 
