@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.17.7"
+__generated_with = "0.17.8"
 app = marimo.App(width="medium")
 
 
@@ -8,9 +8,10 @@ app = marimo.App(width="medium")
 def _():
     import marimo as mo
     import pandas as pd
+    import numpy as np
 
     from feedgen.feed import FeedGenerator
-    return FeedGenerator, pd
+    return FeedGenerator, mo, pd
 
 
 @app.cell
@@ -25,7 +26,7 @@ def _(fg):
         fg.title('Les derniers sondages · NSPPolls')
         fg.description("hello")
         fg.link( href='https://codeberg.org/nsppolls', rel='alternate' )
- 
+
         return feed
     return (metadata,)
 
@@ -37,7 +38,7 @@ def _(fg, metadata):
 
 
 @app.cell
-def _(fg, pd):
+def _(fg, mo, pd):
     def entries(feed):
         df = (
             pd
@@ -48,9 +49,12 @@ def _(fg, pd):
                 .read_csv('files.csv')
                 .set_index('name')
             )
-            .sort_values("pdf creation-date")
+            # .sort_values("pdf creation-date")
+            # .query('~url.isna()')
+            # .query('~`pdf creation-date`.isna()')
+            .sort_values("http last-modified")
             .query('~url.isna()')
-            .query('~`pdf creation-date`.isna()')
+            .query('~`http last-modified`.isna()')
         )
 
         def entry(row, feed):
@@ -62,20 +66,24 @@ def _(fg, pd):
                 fe.id(row.name)
                 fe.title(row.name)
                 fe.link(href=row['url'])
-                fe.published(published=updated)
+                if (published != pd.NaT): fe.published(published=updated)
                 #fe.updated(updated=updated)
-                fe.description(description=f"""
-                - date de création du pdf : { row['pdf creation-date'] }
-                """)
+                fe.description(description=mo.md(f"""
+    - date de création du fichier pdf : { row['pdf creation-date'] }
+    - date d'upload du fichier pdf : { row['http last-modified'] }
+                """).text)
                 return fe
-            except:
+            except Exception as e:
+                print(row.name)
                 print(published)
                 print(updated)
+
+                print(e)
 
 
         feed.entry(entry=[], replace=True)
         df.apply(entry, feed=fg, axis=1)
-    
+
         return df
     return (entries,)
 
