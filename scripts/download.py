@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.16.2"
+__generated_with = "0.17.8"
 app = marimo.App(width="medium")
 
 with app.setup:
@@ -101,21 +101,6 @@ def get_files(index, overwrite=False):
         )
 
     return files
-
-
-@app.cell
-def _(index):
-    def get_all():
-        files_all = get_files(index, overwrite=True)
-        files_all.to_csv('files.csv', index=False)
-        return files_all
-    return
-
-
-@app.cell
-def _():
-    #get_all()
-    return
 
 
 @app.cell
