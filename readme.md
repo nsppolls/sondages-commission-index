@@ -1,4 +1,4 @@
-# NSPPolls · commission des sondages
+# données de la commission des sondages · NSPPolls
 
 Ce dépôt contient :
 
@@ -25,6 +25,7 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 [`base.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/base.csv
 [`files.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/files.csv
 [`sondages-commission-index.rss`]: https://codeberg.org/nsppolls/sondages-commission-index.rss
+[`sondages.rss.xml`]: https://codeberg.org/nsppolls/sondages-commission-index/raw/branch/main/polls.rss.xml
 
 ## scripts
 
@@ -35,6 +36,8 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 
 [`scripts/scrap.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/scrap.py
 [`scripts/download.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/download.py
+[`scripts/download-all.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/download-all.py
+[`scripts/build-rss.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/build-rss.py
 
 ## automatisation
 
