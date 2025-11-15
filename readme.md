@@ -16,11 +16,12 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 
 ## données et flux
 
-|         fichier           |  contenu                  |
-|--------------------|--------------------|
-|         [`base.csv`]           |  liste des sondages référencés sur le site de la commission                   |
-|         [`files.csv`]           | liste des fichiers `pdf` correspondant aux sondages avec quelques métadonnées au passage.                   |
-| [`sondages-commission-index.rss`]| tous les changements sur ce dépôt en attendant un fil `rss` comme il faut|
+| fichier                           | contenu                                                                                    |
+|-----------------------------------|--------------------------------------------------------------------------------------------|
+| [`base.csv`]                      | liste des sondages référencés sur le site de la commission.                                |
+| [`files.csv`]                     | liste des fichiers `pdf` correspondant aux sondages avec quelques métadonnées au passage.  |
+| [`sondages-commission-index.rss`] | tous les changements sur ce dépôt.                                                         |
+| [`sondages.rss.xml`]              | le fil rss contenant tous les sondages triés par date de dernière modification du fichier. |
 
 [`base.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/base.csv
 [`files.csv`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/files.csv
@@ -29,10 +30,12 @@ Le dépôt vit principalement sur [codeberg] mais est également dupliqué autom
 
 ## scripts
 
-|          script          |  contenu                  |
-|--------------------|--------------------|
-| [`scripts/scrap.py`]                   |     produit le fichier `base.csv`               |
-| [`scripts/download.py`]                   |  produit le fichier `files.csv` de façon incrémental en récupérant seulement fichiers `pdf` manquants                  |
+| script                      | contenu                                                                                               |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|
+| [`scripts/scrap.py`]        | produit le fichier `base.csv`.                                                                        |
+| [`scripts/download.py`]     | produit le fichier `files.csv` de façon incrémental en récupérant seulement fichiers `pdf` manquants. |
+| [`scripts/download-all.py`] | produit le fichier `files.csv` et récupère l'ensemble des fichiers `pdf` indexés.                     |
+| [`scripts/build-rss.py`]    | génère le fil rss des sondages.                                                                       |
 
 [`scripts/scrap.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/scrap.py
 [`scripts/download.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/download.py
