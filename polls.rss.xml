@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 06:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 06:01:49 +0000</lastBuildDate>
+    <item>
+      <title>10028 Mun Marseille IFOP La Provence Sud Radio 5 decembre</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2025/decembre/10028-mun-marseille-ifop-la-provence-sud-radio-5-decembre.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2025-12-05 15:07:58+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2025-12-05 17:56:49&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10028 Mun Marseille IFOP La Provence Sud Radio 5 decembre</guid>
+      <pubDate>Fri, 05 Dec 2025 17:56:49 +0000</pubDate>
+    </item>
     <item>
       <title>10027 Pres RN IPSOS BVA Lopinion 4 decembre</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2025/decembre/10027-pres-rn-ipsos-bva-lopinion-4-decembre.pdf</link>
@@ -4828,13 +4838,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:35 +0000</pubDate>
     </item>
     <item>
-      <title>9640 Harris Interactive - Baromètre Challenges - V46 Région PACA</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9640-harris-interactive-barometre-challenges-v46-region-paca.pdf</link>
+      <title>9641 Leg Cluster 17 </title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9641-leg-cluster-17.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-05-03 18:12:03+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : nan&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9640 Harris Interactive - Baromètre Challenges - V46 Région PACA</guid>
+      <guid isPermaLink="false">9641 Leg Cluster 17 </guid>
       <pubDate>Fri, 08 Jul 2022 15:57:34 +0000</pubDate>
     </item>
     <item>
@@ -4848,13 +4858,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:34 +0000</pubDate>
     </item>
     <item>
-      <title>9641 Leg Cluster 17 </title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9641-leg-cluster-17.pdf</link>
+      <title>9640 Harris Interactive - Baromètre Challenges - V46 Région PACA</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9640-harris-interactive-barometre-challenges-v46-region-paca.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : nan&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-05-03 18:12:03+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9641 Leg Cluster 17 </guid>
+      <guid isPermaLink="false">9640 Harris Interactive - Baromètre Challenges - V46 Région PACA</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:34 +0000</pubDate>
     </item>
     <item>
@@ -9258,16 +9268,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
     </item>
     <item>
-      <title>9076 Paca Ifop Nice-Matin</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9076-paca-ifop-nice-matin.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2020-09-08 19:55:07+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:04&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9076 Paca Ifop Nice-Matin</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
-    </item>
-    <item>
       <title>9081 IDF IFOP L'Obs</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/octobre/9081-idf-ifop-l-obs.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9275,6 +9275,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:04&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9081 IDF IFOP L'Obs</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>9076 Paca Ifop Nice-Matin</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/septembre/9076-paca-ifop-nice-matin.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2020-09-08 19:55:07+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:04&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9076 Paca Ifop Nice-Matin</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
     </item>
     <item>
@@ -9318,13 +9328,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
     </item>
     <item>
-      <title>9085 HDF Ifop La Tribune</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9085-hdf-ifop-la-tribune.pdf</link>
+      <title>9086 ARA Ifop Lyon Capitale</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9086-ara-ifop-lyon-capitale.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2020-11-23 17:41:22+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2020-11-27 14:47:53+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:03&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9085 HDF Ifop La Tribune</guid>
+      <guid isPermaLink="false">9086 ARA Ifop Lyon Capitale</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
@@ -9358,13 +9368,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
-      <title>9086 ARA Ifop Lyon Capitale</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9086-ara-ifop-lyon-capitale.pdf</link>
+      <title>9085 HDF Ifop La Tribune</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9085-hdf-ifop-la-tribune.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2020-11-27 14:47:53+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2020-11-23 17:41:22+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:03&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9086 ARA Ifop Lyon Capitale</guid>
+      <guid isPermaLink="false">9085 HDF Ifop La Tribune</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
