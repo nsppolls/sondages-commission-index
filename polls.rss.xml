@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 06:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 06:01:44 +0000</lastBuildDate>
+    <item>
+      <title>10030 Mun Strasbourg ELABE Dernieres nouvelles Alsace 9 decembre</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2025/decembre/10030-mun-strasbourg-elabe-dernieres-nouvelles-alsace-9-decembre.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2025-12-09 16:04:23+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2025-12-10 07:07:22&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10030 Mun Strasbourg ELABE Dernieres nouvelles Alsace 9 decembre</guid>
+      <pubDate>Wed, 10 Dec 2025 07:07:22 +0000</pubDate>
+    </item>
     <item>
       <title>10029 Mun Perpignan IFOP Lindependant 8 decembre</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2025/decembre/10029-mun-perpignan-ifop-lindependant-8-decembre.pdf</link>
@@ -2698,16 +2708,6 @@
       <pubDate>Mon, 29 Apr 2024 11:06:36 +0000</pubDate>
     </item>
     <item>
-      <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2024-04-26 20:33:35+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
-      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -2715,6 +2715,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
+      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2024-04-26 20:33:35+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
       <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
     </item>
     <item>
@@ -9338,13 +9348,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:04 +0000</pubDate>
     </item>
     <item>
-      <title>9086 ARA Ifop Lyon Capitale</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9086-ara-ifop-lyon-capitale.pdf</link>
+      <title>9087 Pres. IFOP VA</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9087-pres-ifop-va.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2020-11-27 14:47:53+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2020-11-27 17:27:28+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:03&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9086 ARA Ifop Lyon Capitale</guid>
+      <guid isPermaLink="false">9087 Pres. IFOP VA</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
@@ -9388,13 +9398,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
-      <title>9087 Pres. IFOP VA</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9087-pres-ifop-va.pdf</link>
+      <title>9086 ARA Ifop Lyon Capitale</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2020/novembre/9086-ara-ifop-lyon-capitale.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2020-11-27 17:27:28+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2020-11-27 14:47:53+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:03&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9087 Pres. IFOP VA</guid>
+      <guid isPermaLink="false">9086 ARA Ifop Lyon Capitale</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:03 +0000</pubDate>
     </item>
     <item>
