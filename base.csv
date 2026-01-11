@@ -1696,8 +1696,8 @@ name,href,year
 9890 Mun. Paris Ipsos Le Parisien 18-11–24,/notices/medias/fichiers/add/1863,2024
 9891 Mun. Paris Le Figaro 30 nov,/notices/medias/fichiers/add/1864,2024
 9892 Mun Nice La Tribune,/notices/medias/fichiers/add/1866,2024
-9893 Mun Marseille IFOP le Jdd du 8 décembre 2024,/notices/medias/fichiers/add/1865,2024
 9894 Pdt. Ifop Le Figaro le 11 déc,/notices/medias/fichiers/add/1867,2024
+9893 Mun Marseille IFOP le Jdd du 8 décembre 2024,/notices/medias/fichiers/add/1865,2024
 9895 Mun. Paris Cluster 17 Paris en Grand 11- janvier,/notices/medias/fichiers/add/1868,2025
 9896 Mun Montpellier Ifop Mairie 11 janvier ,/notices/medias/fichiers/add/1869,2025
 9897 Mun Lyon IFOP fiducial Lyon Capitale 31 janvier,/notices/medias/fichiers/add/1870,2025
@@ -1758,7 +1758,6 @@ name,href,year
 9953 Mun Nanterre IFOP Le Parisien 6 juin,/notices/medias/fichiers/add/1929,2025
 9954 Leg ELABE BFMTV La Tribune 7 juin,/notices/medias/fichiers/add/1930,2025
 9955 Mun Boulogne Billancourt Ipsos Bulletin municipal 16 juin,/notices/medias/fichiers/add/1935,2025
-9956 Mun Noisy le Sec IFOP Grand Paris,/notices/medias/fichiers/add/1937,2025
 9957 Mun Paris Elabe BFMTV La Tribune 21 juin,/notices/medias/fichiers/add/1938,2025
 9958 Mun Tourcoing IFOP Voix du Nord 23 juin,/notices/medias/fichiers/add/1939,2025
 9959 Mun Barometre Odoxa Public Senat 24 juin,/notices/medias/fichiers/add/1940,2025
@@ -1766,13 +1765,14 @@ name,href,year
 9961 Pres Toluna Harris Interactive Lopinion Suivi du potentiel électoral V2 27 juin,/notices/medias/fichiers/add/1942,2025
 9962 Mun Lyon Toluna Harris interactive Actu Lyon 28 juin,/notices/medias/fichiers/add/1946,2025
 9963 Mun Merignac THI bulletin municipal 24 juin,/notices/medias/fichiers/add/1944,2025
-9964 Mun Toulon Elabe Var Matin 2 juillet,/notices/medias/fichiers/add/1945,2025
+9956 Mun Noisy le Sec IFOP Grand Paris,/notices/medias/fichiers/add/1937,2025
 9965 Mun IPSOS Cevipof AMF 2 juillet,/notices/medias/fichiers/add/1947,2025
 9966 Mun Poissy Ifop actu.fr 4 juillet,/notices/medias/fichiers/add/1948,2025
 9967 Mun Odoxa Le Figaro 3 juillet,/notices/medias/fichiers/add/1949,2025
 9969 Mun Montpellier IFOP Midi Libre 15 juillet,/notices/medias/fichiers/add/1951,2025
 9971 Leg Paris IFOP Le Parisien 24 juillet,/notices/medias/fichiers/add/1953,2025
 9972 Mun Paris Cluster 17 Le Parisien 26 juillet,/notices/medias/fichiers/add/1954,2025
+9964 Mun Toulon Elabe Var Matin 2 juillet,/notices/medias/fichiers/add/1945,2025
 9968 Leg Ipsos BVA La Tribune dimanche 12 juillet,/notices/medias/fichiers/add/1950,2025
 9970 Mun transition ecologique IPSOSBVA Idex 17 juillet,/notices/medias/fichiers/add/1952,2025
 9973 Leg Elabe BFMTV 30 aout,/notices/medias/fichiers/add/1955,2025
@@ -1844,3 +1844,4 @@ name,href,year
 10040 Mun Lyon OPINION WAY Lyon Mag 22 decembre,/notices/medias/fichiers/add/2022,2025
 10041 Mun Paris CLUSTER 17 Lopinion 23 decembre,/notices/medias/fichiers/add/2023,2025
 10042 Mun Beziers IFOP Entrevue.fr 4 janvier,/notices/medias/fichiers/add/2027,2026
+10043 Mun Paris IFOP L'Opinion Sud Radio 10 janvier,/notices/medias/fichiers/add/2028,2026
