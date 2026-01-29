@@ -1711,12 +1711,12 @@ name,href,year
 9905 Pres Harris Interactive candidature entrepreneur frst capital 7 fevrier,/notices/medias/fichiers/add/1878,2025
 9906 pres IFOP Sud radio Le Figaro 28 fevrier,/notices/medias/fichiers/add/1879,2025
 9907 Ref paris OpinionWay pour Clean Cities 10 mars ,/notices/medias/fichiers/add/1880,2025
-9908 Mun Lyon Cluster 17 Holnest 18 mars,/notices/medias/fichiers/add/1882,2025
 9909 mun Marseille IFOP La provence BFM 15 mars,/notices/medias/fichiers/add/1881,2025
 9910 Mun Perpignan Ifop Mairie Ouillade 24 mars,/notices/medias/fichiers/add/1884,2025
 9911 Mun Paris Ifop Figaro Sud Radio 28 mars,/notices/medias/fichiers/add/1885,2025
 9912 Pres Ifop JDD 30 mars,/notices/medias/fichiers/add/1886,2025
 9919 Mun Annecy Mairie BVA Le Dauphine libere  27 mars,/notices/medias/fichiers/add/1895,2025
+9908 Mun Lyon CLUSTER 17 Actu Lyon 18 mars,/notices/medias/fichiers/add/2045,2025
 9913 Pres Toluna Harris Interactive RTL 1er avril,/notices/medias/fichiers/add/1887,2025
 9914 Pres ELABE BFMTV 1er avril,/notices/medias/fichiers/add/1888,2025
 9915 Mun Dijon Mairie IFOP Bien public 8 avril,/notices/medias/fichiers/add/1893,2025
@@ -1763,9 +1763,9 @@ name,href,year
 9959 Mun Barometre Odoxa Public Senat 24 juin,/notices/medias/fichiers/add/1940,2025
 9960 Mun Marseille Ifop La Provence 25 juin,/notices/medias/fichiers/add/1941,2025
 9961 Pres Toluna Harris Interactive Lopinion Suivi du potentiel électoral V2 27 juin,/notices/medias/fichiers/add/1942,2025
-9962 Mun Lyon Toluna Harris interactive Actu Lyon 28 juin,/notices/medias/fichiers/add/1946,2025
 9963 Mun Merignac THI bulletin municipal 24 juin,/notices/medias/fichiers/add/1944,2025
 9956 Mun Noisy le Sec IFOP Grand Paris,/notices/medias/fichiers/add/1937,2025
+9962 Mun Lyon TOLUNA HARRIS INTERACTIVE Actu Lyon 28 juin,/notices/medias/fichiers/add/2044,2025
 9965 Mun IPSOS Cevipof AMF 2 juillet,/notices/medias/fichiers/add/1947,2025
 9966 Mun Poissy Ifop actu.fr 4 juillet,/notices/medias/fichiers/add/1948,2025
 9967 Mun Odoxa Le Figaro 3 juillet,/notices/medias/fichiers/add/1949,2025
@@ -1860,3 +1860,4 @@ name,href,year
 10055 Mun Lyon OPINIONWAY LyonMag 26 janvier,/notices/medias/fichiers/add/2041,2026
 10056 Mun Clichy CLUSTER 17 Vivre Clichy 26 janvier,/notices/medias/fichiers/add/2042,2026
 10057 Mun Lyon Metropole OPINIONWAY LyonMag 27 janvier,/notices/medias/fichiers/add/2043,2026
+10058 Mun Toulon IFOP Var matin 28 janvier,/notices/medias/fichiers/add/2046,2026
