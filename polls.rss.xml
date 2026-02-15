@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 06:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:01:39 +0000</lastBuildDate>
+    <item>
+      <title>10075 Mun Aix IFOP La Provence 13 fevrier</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10075-mun-aix-ifop-la-provence-13-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-13 14:33:45+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-14 07:18:10&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10075 Mun Aix IFOP La Provence 13 fevrier</guid>
+      <pubDate>Sat, 14 Feb 2026 07:18:10 +0000</pubDate>
+    </item>
     <item>
       <title>10074 Mun Amiens CLUSTER 17 Courrier Picard 12 fevrier</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10072-mun-amiens-cluster-17-courrier-picard-12-fevrier.pdf</link>
