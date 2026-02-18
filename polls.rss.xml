@@ -6,7 +6,37 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 06:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 06:01:46 +0000</lastBuildDate>
+    <item>
+      <title>10079 Mun Nimes IFOP Midi Libre 17 fevrier</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10079-mun-nimes-ifop-midi-libre-17-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-16 18:18:48+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-17 11:16:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10079 Mun Nimes IFOP Midi Libre 17 fevrier</guid>
+      <pubDate>Tue, 17 Feb 2026 11:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>10078 Mun Paris OPINIONWAY JDD 17 février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10078-mun-paris-opinionway-jdd-17-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-17 08:11:43+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-17 10:06:28&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10078 Mun Paris OPINIONWAY JDD 17 février</guid>
+      <pubDate>Tue, 17 Feb 2026 10:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>10077 Mun Strasbourg CLUSTER 17 février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10077-mun-strasbourg-cluster-17-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-16 16:47:21+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-17 07:52:01&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10077 Mun Strasbourg CLUSTER 17 février</guid>
+      <pubDate>Tue, 17 Feb 2026 07:52:01 +0000</pubDate>
+    </item>
     <item>
       <title>10076 Pres Primaire droite IFOP JDD 14 fevrier</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10076-pres-primaire-droite-ifop-jdd-14-fevrier.pdf</link>
@@ -3168,16 +3198,6 @@
       <pubDate>Mon, 29 Apr 2024 11:06:36 +0000</pubDate>
     </item>
     <item>
-      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
-      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -3185,6 +3205,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
+      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
       <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
     </item>
     <item>
@@ -7358,13 +7388,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
     </item>
     <item>
-      <title>9582 RDP Ifop Paris Match 13-04</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9582-rdp-ifop-paris-match-13-04.pdf</link>
+      <title>9584 Ipsos Le Parisien Aujourd'hui en France - France Info - Baromètre 2022 - Vague 26 - 14 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9584-ipsos-le-parisien-aujourd-hui-en-france-france-info-barometre-2022-vague-26-14-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-13 16:16:54+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-14 14:42:43+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:04&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9582 RDP Ifop Paris Match 13-04</guid>
+      <guid isPermaLink="false">9584 Ipsos Le Parisien Aujourd'hui en France - France Info - Baromètre 2022 - Vague 26 - 14 avril</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:04 +0000</pubDate>
     </item>
     <item>
@@ -7408,13 +7438,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:04 +0000</pubDate>
     </item>
     <item>
-      <title>9584 Ipsos Le Parisien Aujourd'hui en France - France Info - Baromètre 2022 - Vague 26 - 14 avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9584-ipsos-le-parisien-aujourd-hui-en-france-france-info-barometre-2022-vague-26-14-avril.pdf</link>
+      <title>9588 Odoxa l'obs le Mascaret – Vague 9 - 15 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9588-odoxa-l-obs-le-mascaret-vague-9-15-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-14 14:42:43+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-14 20:42:32+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:04&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9584 Ipsos Le Parisien Aujourd'hui en France - France Info - Baromètre 2022 - Vague 26 - 14 avril</guid>
+      <guid isPermaLink="false">9588 Odoxa l'obs le Mascaret – Vague 9 - 15 avril</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:04 +0000</pubDate>
     </item>
     <item>
@@ -7428,13 +7458,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:04 +0000</pubDate>
     </item>
     <item>
-      <title>9588 Odoxa l'obs le Mascaret – Vague 9 - 15 avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9588-odoxa-l-obs-le-mascaret-vague-9-15-avril.pdf</link>
+      <title>9582 RDP Ifop Paris Match 13-04</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9582-rdp-ifop-paris-match-13-04.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-14 20:42:32+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-13 16:16:54+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:04&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9588 Odoxa l'obs le Mascaret – Vague 9 - 15 avril</guid>
+      <guid isPermaLink="false">9582 RDP Ifop Paris Match 13-04</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:04 +0000</pubDate>
     </item>
     <item>
@@ -9668,16 +9698,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:15 +0000</pubDate>
     </item>
     <item>
-      <title>9112 IdF IPSOS Le Parisien</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9112-idf-ipsos-le-parisien.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-04-09 14:47:49+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:14&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9112 IdF IPSOS Le Parisien</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:14 +0000</pubDate>
-    </item>
-    <item>
       <title>9113. P. Ifop Jddpdf</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9113-p-ifop-jddpdf.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9685,6 +9705,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:14&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9113. P. Ifop Jddpdf</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>9112 IdF IPSOS Le Parisien</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9112-idf-ipsos-le-parisien.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-04-09 14:47:49+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:14&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9112 IdF IPSOS Le Parisien</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:14 +0000</pubDate>
     </item>
     <item>
