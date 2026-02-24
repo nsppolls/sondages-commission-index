@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 06:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:01:19 +0000</lastBuildDate>
+    <item>
+      <title>10090 Mun Montpellier OPINIONWAY Métropolitain 21 février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10090-mun-montpellier-opinionway-metropolitain-21-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-23 08:00:33+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-23 12:49:56&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10090 Mun Montpellier OPINIONWAY Métropolitain 21 février</guid>
+      <pubDate>Mon, 23 Feb 2026 12:49:56 +0000</pubDate>
+    </item>
     <item>
       <title>10088 Mun Paris IFOP L'Opinion Sud Radio 22 février</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10088-mun-paris-ifop-l-opinion-sud-radio-22-fevrier.pdf</link>
@@ -7418,13 +7428,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:06 +0000</pubDate>
     </item>
     <item>
-      <title>9592 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 27 - 15 avril. pdf</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9592-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-27-15-avril-pdf.pdf</link>
+      <title>9593 Odoxa  le Figaro- 14 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9593-odoxa-le-figaro-14-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-15 14:58:06+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-15 16:59:42+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:05&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9592 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 27 - 15 avril. pdf</guid>
+      <guid isPermaLink="false">9593 Odoxa  le Figaro- 14 avril</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
     </item>
     <item>
@@ -7438,16 +7448,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
     </item>
     <item>
-      <title>9593 Odoxa  le Figaro- 14 avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9593-odoxa-le-figaro-14-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-15 16:59:42+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:05&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9593 Odoxa  le Figaro- 14 avril</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
-    </item>
-    <item>
       <title>9595 OpinionWay pour CNEWS - Vague 40 le 15 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9595-opinionway-pour-cnews-vague-40-le-15-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -7455,6 +7455,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:05&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9595 OpinionWay pour CNEWS - Vague 40 le 15 avril</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>9592 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 27 - 15 avril. pdf</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9592-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-27-15-avril-pdf.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-15 14:58:06+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:05&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9592 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 27 - 15 avril. pdf</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:05 +0000</pubDate>
     </item>
     <item>
