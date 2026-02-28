@@ -6,7 +6,37 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 06:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:01:10 +0000</lastBuildDate>
+    <item>
+      <title>10104 Mun Nice ELABE 27 fevrier</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10104-mun-nice-elabe-27-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-27 11:48:22+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-27 17:14:22&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10104 Mun Nice ELABE 27 fevrier</guid>
+      <pubDate>Fri, 27 Feb 2026 17:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>10101 Mun Marseille CLUSTER 17 Politico 26 février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10101-mun-marseille-cluster-17-politico-26-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-25 19:20:40+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-27 08:40:10&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10101 Mun Marseille CLUSTER 17 Politico 26 février</guid>
+      <pubDate>Fri, 27 Feb 2026 08:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>10102 Mun Colombes CLUSTER 17 Facebook février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10102-mun-colombes-cluster-17-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-25 20:03:04+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-02-27 08:38:54&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10102 Mun Colombes CLUSTER 17 Facebook février</guid>
+      <pubDate>Fri, 27 Feb 2026 08:38:54 +0000</pubDate>
+    </item>
     <item>
       <title>10099 Mun Bordeaux IFOP Sud Ouest 25 fevrier</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10099-mun-bordeaux-ifop-sud-ouest-25-fevrier.pdf</link>
@@ -4228,16 +4258,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:54 +0000</pubDate>
     </item>
     <item>
-      <title>9521 OpinionWay - Kea Partners - Les Echos - Radio Classique - 30 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9521-opinionway-kea-partners-les-echos-radio-classique-30-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-30 15:47:01+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9521 OpinionWay - Kea Partners - Les Echos - Radio Classique - 30 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
-    </item>
-    <item>
       <title>9516 RDP Ifop PM 29 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9516-rdp-ifop-pm-29-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -4245,26 +4265,6 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9516 RDP Ifop PM 29 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>9513 Harris Interactive - Challenges - V39, le 30 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9513-harris-interactive-challenges-v39-le-30-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-29 20:14:28+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9513 Harris Interactive - Challenges - V39, le 30 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>9515 OpinionWay pour CNEWS - Vague 29, le 30 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9515-opinionway-pour-cnews-vague-29-le-30-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-30 14:32:38+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9515 OpinionWay pour CNEWS - Vague 29, le 30 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
     </item>
     <item>
@@ -4288,6 +4288,36 @@
       <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
     </item>
     <item>
+      <title>9513 Harris Interactive - Challenges - V39, le 30 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9513-harris-interactive-challenges-v39-le-30-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-29 20:14:28+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9513 Harris Interactive - Challenges - V39, le 30 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>9521 OpinionWay - Kea Partners - Les Echos - Radio Classique - 30 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9521-opinionway-kea-partners-les-echos-radio-classique-30-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-30 15:47:01+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9521 OpinionWay - Kea Partners - Les Echos - Radio Classique - 30 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>9515 OpinionWay pour CNEWS - Vague 29, le 30 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9515-opinionway-pour-cnews-vague-29-le-30-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-30 14:32:38+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:53&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9515 OpinionWay pour CNEWS - Vague 29, le 30 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
+    </item>
+    <item>
       <title>9518 RDP Ifop Paris-Match 30 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9518-rdp-ifop-paris-match-30-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -4296,6 +4326,36 @@
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9518 RDP Ifop Paris-Match 30 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>9512 RDP Ifop PM 28 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9512-rdp-ifop-pm-28-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-28 15:06:47+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9512 RDP Ifop PM 28 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>9511 OpinionWay - Kea Partners - Les Echos - Radio Classique -  29 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9511-opinionway-kea-partners-les-echos-radio-classique-29-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-29 14:08:27+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9511 OpinionWay - Kea Partners - Les Echos - Radio Classique -  29 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>9510 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 14 - 28 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9510-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-14-28-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-28 14:29:30+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9510 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 14 - 28 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
     </item>
     <item>
       <title>9509 Ow Cnews le 29 mars</title>
@@ -4335,36 +4395,6 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9506 Ipsos cevipof LM 28 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>9510 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 14 - 28 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9510-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-14-28-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-28 14:29:30+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9510 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 14 - 28 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>9511 OpinionWay - Kea Partners - Les Echos - Radio Classique -  29 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9511-opinionway-kea-partners-les-echos-radio-classique-29-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-29 14:08:27+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9511 OpinionWay - Kea Partners - Les Echos - Radio Classique -  29 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>9512 RDP Ifop PM 28 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9512-rdp-ifop-pm-28-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-28 15:06:47+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:52&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9512 RDP Ifop PM 28 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:52 +0000</pubDate>
     </item>
     <item>
@@ -6888,13 +6918,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:16 +0000</pubDate>
     </item>
     <item>
-      <title>9345 OpinionWay - Kea  - Les Echos- 7  fev</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9345-opinionway-kea-les-echos-7-fev.pdf</link>
+      <title>9344 RDP IFOP PM 8 février - PUBLI</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9344-rdp-ifop-pm-8-fevrier-publi.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-02-07 18:17:46+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-02-08 15:49:57+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:15&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9345 OpinionWay - Kea  - Les Echos- 7  fev</guid>
+      <guid isPermaLink="false">9344 RDP IFOP PM 8 février - PUBLI</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:15 +0000</pubDate>
     </item>
     <item>
@@ -6958,13 +6988,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:15 +0000</pubDate>
     </item>
     <item>
-      <title>9344 RDP IFOP PM 8 février - PUBLI</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9344-rdp-ifop-pm-8-fevrier-publi.pdf</link>
+      <title>9345 OpinionWay - Kea  - Les Echos- 7  fev</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/fevrier/9345-opinionway-kea-les-echos-7-fev.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-02-08 15:49:57+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-02-07 18:17:46+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:15&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9344 RDP IFOP PM 8 février - PUBLI</guid>
+      <guid isPermaLink="false">9345 OpinionWay - Kea  - Les Echos- 7  fev</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:15 +0000</pubDate>
     </item>
     <item>
@@ -7438,13 +7468,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:08 +0000</pubDate>
     </item>
     <item>
-      <title>9600 R Ipsos Le Parisien 18-04</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9600-r-ipsos-le-parisien-18-04.pdf</link>
+      <title>9602 RDP Ifop Paris Match Lci Sud Radio</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9602-rdp-ifop-paris-match-lci-sud-radio.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-18 14:29:23+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-18 12:03:32+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:07&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9600 R Ipsos Le Parisien 18-04</guid>
+      <guid isPermaLink="false">9602 RDP Ifop Paris Match Lci Sud Radio</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:07 +0000</pubDate>
     </item>
     <item>
@@ -7458,13 +7488,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:07 +0000</pubDate>
     </item>
     <item>
-      <title>9602 RDP Ifop Paris Match Lci Sud Radio</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9602-rdp-ifop-paris-match-lci-sud-radio.pdf</link>
+      <title>9604 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 30 - 19 avril. pdf</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9604-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-30-19-avril-pdf.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-18 12:03:32+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-19 15:13:13+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:07&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9602 RDP Ifop Paris Match Lci Sud Radio</guid>
+      <guid isPermaLink="false">9604 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 30 - 19 avril. pdf</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:07 +0000</pubDate>
     </item>
     <item>
@@ -7478,13 +7508,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:07 +0000</pubDate>
     </item>
     <item>
-      <title>9604 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 30 - 19 avril. pdf</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9604-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-30-19-avril-pdf.pdf</link>
+      <title>9600 R Ipsos Le Parisien 18-04</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/avril/9600-r-ipsos-le-parisien-18-04.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-04-19 15:13:13+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-04-18 14:29:23+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:07&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9604 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 30 - 19 avril. pdf</guid>
+      <guid isPermaLink="false">9600 R Ipsos Le Parisien 18-04</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:07 +0000</pubDate>
     </item>
     <item>
@@ -9618,16 +9648,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>9268 P Ifop Sud-radio</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9268-p-ifop-sud-radio.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-12-20 10:20:24+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:20&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9268 P Ifop Sud-radio</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:20 +0000</pubDate>
-    </item>
-    <item>
       <title>9265 P ipsos le Monde Cevipof</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9265-p-ipsos-le-monde-cevipof.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9648,24 +9668,14 @@
       <pubDate>Fri, 08 Jul 2022 15:56:20 +0000</pubDate>
     </item>
     <item>
-      <title>9264 P OW Mieux Voter</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9264-p-ow-mieux-voter.pdf</link>
+      <title>9268 P Ifop Sud-radio</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9268-p-ifop-sud-radio.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-12-15 16:14:07+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:19&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-12-20 10:20:24+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:20&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9264 P OW Mieux Voter</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>9262 P Cluster 17 (4-8 dec) (2)</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9262-p-cluster-17-4-8-dec-2.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-12-12 16:39:36+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:19&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9262 P Cluster 17 (4-8 dec) (2)</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:19 +0000</pubDate>
+      <guid isPermaLink="false">9268 P Ifop Sud-radio</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:20 +0000</pubDate>
     </item>
     <item>
       <title>9263 PHI Challenges V26</title>
@@ -9685,6 +9695,26 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:19&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9266 P. OW Cnews V4</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>9264 P OW Mieux Voter</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9264-p-ow-mieux-voter.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-12-15 16:14:07+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:19&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9264 P OW Mieux Voter</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>9262 P Cluster 17 (4-8 dec) (2)</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9262-p-cluster-17-4-8-dec-2.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-12-12 16:39:36+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:19&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9262 P Cluster 17 (4-8 dec) (2)</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:19 +0000</pubDate>
     </item>
     <item>
@@ -9738,26 +9768,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:18 +0000</pubDate>
     </item>
     <item>
-      <title>9252 P HI Challenges V25</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9252-p-hi-challenges-v25.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-12-06 16:44:51+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:17&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9252 P HI Challenges V25</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>9251 P HI Challenges V24</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9251-p-hi-challenges-v24.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-11-30 18:15:34+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:17&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9251 P HI Challenges V24</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
-    </item>
-    <item>
       <title>9254 P Ifop Le Figaro V7</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9254-p-ifop-le-figaro-v7.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9778,6 +9788,26 @@
       <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
     </item>
     <item>
+      <title>9251 P HI Challenges V24</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9251-p-hi-challenges-v24.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-11-30 18:15:34+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:17&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9251 P HI Challenges V24</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>9252 P HI Challenges V25</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9252-p-hi-challenges-v25.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-12-06 16:44:51+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:17&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9252 P HI Challenges V25</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
+    </item>
+    <item>
       <title>9257 P Campagne jadot Ipsos le Parisien</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/decembre/9257-p-campagne-jadot-ipsos-le-parisien.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9786,6 +9816,16 @@
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9257 P Campagne jadot Ipsos le Parisien</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>9124 P. Ifop Jdd</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9124-p-ifop-jdd.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-04-23 18:16:06+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:16&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9124 P. Ifop Jdd</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:16 +0000</pubDate>
     </item>
     <item>
       <title>9122 P. Ipsos Cevipof Le Monde </title>
@@ -9805,16 +9845,6 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:16&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9123 Ref NC Quidnovi Radio océane</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>9124 P. Ifop Jdd</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/avril/9124-p-ifop-jdd.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-04-23 18:16:06+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:16&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9124 P. Ifop Jdd</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:16 +0000</pubDate>
     </item>
     <item>
