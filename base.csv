@@ -1827,7 +1827,7 @@ name,href,year
 10022 Mun Lorient CLUSTER 17 Le Telegramme 21 novembre,/notices/medias/fichiers/add/2006,2025
 10023 Pres ODOXA 25 novembre,/notices/medias/fichiers/add/2007,2025
 10024 Pres VERIAN LHemicycle 27 novembre,/notices/medias/fichiers/add/2008,2025
-10025 Mun Montpellier IFOP Metropolitain 29 novembre,/notices/medias/fichiers/add/2009,2025
+10025 Mun Montpellier IFOP Metropolitain 29 novembre,/notices/medias/fichiers/add/2104,2025
 10026 Mun Besancon IFOP Plein Air 2 decembre,/notices/medias/fichiers/add/2010,2025
 10027 Pres RN IPSOS BVA Lopinion 4 decembre,/notices/medias/fichiers/add/2011,2025
 10028 Mun Marseille IFOP La Provence Sud Radio 5 decembre,/notices/medias/fichiers/add/2012,2025
@@ -1898,6 +1898,7 @@ name,href,year
 10093 Mun Lyon ELABE BFMTV Le Figaro 23 février,/notices/medias/fichiers/add/2079,2026
 10094 Mun Marseille OPINIONWAY Cnews Europe 1 JDD 23 février,/notices/medias/fichiers/add/2080,2026
 10095 Mun Toulon OPINIONWAY Nice Matin 23 fevrier,/notices/medias/fichiers/add/2083,2026
+10096 Mun Mulhouse IPSOS DNA 8 fevrier,/notices/medias/fichiers/add/2105,2026
 10097 Mun Menton ELABE BFMTV Nice Matin 25 février,/notices/medias/fichiers/add/2086,2026
 10098 Mun Le Havre OPNIONWAY 25 février,/notices/medias/fichiers/add/2087,2026
 10099 Mun Bordeaux IFOP Sud Ouest 25 fevrier,/notices/medias/fichiers/add/2089,2026
@@ -1905,5 +1906,13 @@ name,href,year
 10101 Mun Marseille CLUSTER 17 Politico 26 février,/notices/medias/fichiers/add/2091,2026
 10102 Mun Colombes CLUSTER 17 Facebook février,/notices/medias/fichiers/add/2090,2026
 10104 Mun Nice ELABE 27 fevrier,/notices/medias/fichiers/add/2092,2026
+10109 Mun Lyon IFOP Sud Radio 27 février,/notices/medias/fichiers/add/2097,2026
 10105 Mun Paris OPINION WAY JDD 1er mars,/notices/medias/fichiers/add/2093,2026
 10106 Mun Nice OPINIONWAY JDD 1er mars,/notices/medias/fichiers/add/2094,2026
+10107 Mun Marseille IFOP La Provence 1er mars,/notices/medias/fichiers/add/2095,2026
+10108 Mun Nantes ODOXA Le Point 2 mars,/notices/medias/fichiers/add/2096,2026
+10110 Mun Nice IFOP Nice Matin 1er mars,/notices/medias/fichiers/add/2098,2026
+10111 Mun Rennes Cluster17 Politico 2 mars,/notices/medias/fichiers/add/2101,2026
+10112 Mun Toulon ELABE 2 mars,/notices/medias/fichiers/add/2099,2026
+10113 Mun Poitiers IFOP La Nouvelle Republique 2 mars,/notices/medias/fichiers/add/2103,2026
+10114 Mun Paris Cluster 17 L'Opinion 2 mars,/notices/medias/fichiers/add/2102,2026
