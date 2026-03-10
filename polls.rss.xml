@@ -6,7 +6,67 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 06:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:01:17 +0000</lastBuildDate>
+    <item>
+      <title>10136 Mun Agen IFOP La Depeche 9 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10136-mun-agen-ifop-la-depeche-9-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-09 17:21:53+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 18:53:20&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10136 Mun Agen IFOP La Depeche 9 mars</guid>
+      <pubDate>Mon, 09 Mar 2026 18:53:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>10135 Mun Montauban IFOP La Depeche 9 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10135-mun-montauban-ifop-la-depeche-9-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-09 16:31:02+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 18:53:07&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10135 Mun Montauban IFOP La Depeche 9 mars</guid>
+      <pubDate>Mon, 09 Mar 2026 18:53:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>10133 Mun Enquete electorale Vague 1 IPSOS BVA Le Monde 9 Mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10133-mun-enquete-electorale-vague-1-ipsos-bva-le-monde-9-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-06 19:48:51+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 15:17:01&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10133 Mun Enquete electorale Vague 1 IPSOS BVA Le Monde 9 Mars</guid>
+      <pubDate>Mon, 09 Mar 2026 15:17:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>10134 Mun Toulouse Cluster 17 La Dépêche 9 Mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10134-mun-toulouse-cluster-17-la-depeche-9-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-09 10:27:31+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 15:16:10&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10134 Mun Toulouse Cluster 17 La Dépêche 9 Mars</guid>
+      <pubDate>Mon, 09 Mar 2026 15:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>10103 Mun La Réunion Pigé! Antenne Réunion 18 février</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10103-mun-la-reunion-pige-antenne-reunion-18-fevrier.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-02-17 19:49:34+04:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 12:06:03&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10103 Mun La Réunion Pigé! Antenne Réunion 18 février</guid>
+      <pubDate>Mon, 09 Mar 2026 12:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>10131 Mun Barometre vague 3 OPINIONWAY Les Echos 8 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10131-mun-barometre-vague-3-opinionway-les-echos-8-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-06 16:23:32+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-09 06:50:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10131 Mun Barometre vague 3 OPINIONWAY Les Echos 8 mars</guid>
+      <pubDate>Mon, 09 Mar 2026 06:50:31 +0000</pubDate>
+    </item>
     <item>
       <title>10132 Mun Paris ELABE Le Figaro 7 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10132-mun-paris-elabe-le-figaro-7-mars.pdf</link>
@@ -5958,13 +6018,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9676-opinionway-kea-partners-les-echos-radio-classique-10-juin.pdf</link>
+      <title>9675  Ipsos - Intentions de vote - 10 juin 2022 </title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9675-ipsos-intentions-de-vote-10-juin-2022.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-09 22:50:55+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-09 21:55:56+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</guid>
+      <guid isPermaLink="false">9675  Ipsos - Intentions de vote - 10 juin 2022 </guid>
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
@@ -5978,33 +6038,33 @@
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9675  Ipsos - Intentions de vote - 10 juin 2022 </title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9675-ipsos-intentions-de-vote-10-juin-2022.pdf</link>
+      <title>9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9676-opinionway-kea-partners-les-echos-radio-classique-10-juin.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-09 21:55:56+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-09 22:50:55+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9675  Ipsos - Intentions de vote - 10 juin 2022 </guid>
+      <guid isPermaLink="false">9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9667 sondage Sagis 2022 06 06 législatives Circ 6 Réunion</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9667-sondage-sagis-2022-06-06-legislatives-circ-6-reunion.pdf</link>
+      <title>9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9670-ipsos-le-monde-fjj-cevipof-panel-electoral-vague-12.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:29+04:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 22:35:17+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9667 sondage Sagis 2022 06 06 législatives Circ 6 Réunion</guid>
+      <guid isPermaLink="false">9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>9669 Sagis 2022 06 06 législatives Circ 7 Ré union</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9669-sagis-2022-06-06-legislatives-circ-7-re-union.pdf</link>
+      <title>9668 Harris Interactive - Challenges - V51 Région Bretagne le 7 juin</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9668-harris-interactive-challenges-v51-region-bretagne-le-7-juin.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:53+04:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 19:19:52+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9669 Sagis 2022 06 06 législatives Circ 7 Ré union</guid>
+      <guid isPermaLink="false">9668 Harris Interactive - Challenges - V51 Région Bretagne le 7 juin</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
@@ -6028,23 +6088,23 @@
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9670-ipsos-le-monde-fjj-cevipof-panel-electoral-vague-12.pdf</link>
+      <title>9669 Sagis 2022 06 06 législatives Circ 7 Ré union</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9669-sagis-2022-06-06-legislatives-circ-7-re-union.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 22:35:17+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:53+04:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</guid>
+      <guid isPermaLink="false">9669 Sagis 2022 06 06 législatives Circ 7 Ré union</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>9668 Harris Interactive - Challenges - V51 Région Bretagne le 7 juin</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9668-harris-interactive-challenges-v51-region-bretagne-le-7-juin.pdf</link>
+      <title>9667 sondage Sagis 2022 06 06 législatives Circ 6 Réunion</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9667-sondage-sagis-2022-06-06-legislatives-circ-6-reunion.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 19:19:52+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:29+04:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9668 Harris Interactive - Challenges - V51 Région Bretagne le 7 juin</guid>
+      <guid isPermaLink="false">9667 sondage Sagis 2022 06 06 législatives Circ 6 Réunion</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
@@ -8748,16 +8808,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:42 +0000</pubDate>
     </item>
     <item>
-      <title>9216 P. Ifop Le figaro V4</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9216-p-ifop-le-figaro-v4.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-10-04 15:47:13+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:41&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9216 P. Ifop Le figaro V4</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:41 +0000</pubDate>
-    </item>
-    <item>
       <title>9217 p  HI Challenges V16</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9217-p-hi-challenges-v16.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -8775,6 +8825,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:41&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9218 P. Elabe BFM</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>9216 P. Ifop Le figaro V4</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9216-p-ifop-le-figaro-v4.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-10-04 15:47:13+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:41&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9216 P. Ifop Le figaro V4</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:41 +0000</pubDate>
     </item>
     <item>
@@ -9138,6 +9198,36 @@
       <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
     </item>
     <item>
+      <title>9138 P HI Challenges</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9138-p-hi-challenges.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-05-25 12:19:01+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9138 P HI Challenges</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>9140 HDF Ifop le Figaro</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9140-hdf-ifop-le-figaro.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-05-25 13:15:32+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9140 HDF Ifop le Figaro</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>9143 Reg Baro Odoxa PQR</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9142-reg-baro-odoxa-pqr.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-05-24 18:48:34+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9143 Reg Baro Odoxa PQR</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
+    </item>
+    <item>
       <title>9139 P Ifop Le Figaro</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9139-p-ifop-le-figaro.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9155,36 +9245,6 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9141 IDF IFOP  Le Figaro</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>9143 Reg Baro Odoxa PQR</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9142-reg-baro-odoxa-pqr.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-05-24 18:48:34+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9143 Reg Baro Odoxa PQR</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>9140 HDF Ifop le Figaro</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9140-hdf-ifop-le-figaro.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-05-25 13:15:32+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9140 HDF Ifop le Figaro</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>9138 P HI Challenges</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9138-p-hi-challenges.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-05-25 12:19:01+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9138 P HI Challenges</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
     </item>
     <item>
