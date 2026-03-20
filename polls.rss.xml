@@ -6,7 +6,37 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 06:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:01:14 +0000</lastBuildDate>
+    <item>
+      <title>10157 Mun Paris IFOP Sud Radio 19 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10157-mun-paris-ifop-sud-radio-19-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-19 18:40:34+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-19 18:19:54&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10157 Mun Paris IFOP Sud Radio 19 mars</guid>
+      <pubDate>Thu, 19 Mar 2026 18:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>10156 Mun Toulouse IFOP Sud Radio 19 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10156-mun-toulouse-ifop-sud-radio-19-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-19 17:53:26+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-19 17:04:14&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10156 Mun Toulouse IFOP Sud Radio 19 mars</guid>
+      <pubDate>Thu, 19 Mar 2026 17:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>10155 Mun alliances LFI PS ODOXA Le Figaro 19 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10155-mun-alliances-lfi-ps-odoxa-le-figaro-19-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-19 17:11:31+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-19 16:56:18&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10155 Mun alliances LFI PS ODOXA Le Figaro 19 mars</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:18 +0000</pubDate>
+    </item>
     <item>
       <title>10154 Mun alliances ELABE 18 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10154-mun-alliances-elabe-18-mars.pdf</link>
@@ -18,16 +48,6 @@
       <pubDate>Wed, 18 Mar 2026 16:56:39 +0000</pubDate>
     </item>
     <item>
-      <title>10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-a-mun-comprendre-le-vote-ipsos-bva-france-tv-15-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2026-03-15 16:40:28+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</guid>
-      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
-    </item>
-    <item>
       <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -35,6 +55,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
+      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-a-mun-comprendre-le-vote-ipsos-bva-france-tv-15-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-15 16:40:28+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
     </item>
     <item>
@@ -5388,13 +5418,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:45 +0000</pubDate>
     </item>
     <item>
-      <title>9455 P Odoxa l'Obs le 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9455-p-odoxa-l-obs-le-15-mars.pdf</link>
+      <title>9456 RDP Ifop Paris Match le 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9456-rdp-ifop-paris-match-le-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-15 18:04:04+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-15 14:17:43+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:44&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9455 P Odoxa l'Obs le 15 mars</guid>
+      <guid isPermaLink="false">9456 RDP Ifop Paris Match le 15 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:44 +0000</pubDate>
     </item>
     <item>
@@ -5448,13 +5478,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:44 +0000</pubDate>
     </item>
     <item>
-      <title>9456 RDP Ifop Paris Match le 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9456-rdp-ifop-paris-match-le-15-mars.pdf</link>
+      <title>9455 P Odoxa l'Obs le 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9455-p-odoxa-l-obs-le-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-15 14:17:43+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-15 18:04:04+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:44&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9456 RDP Ifop Paris Match le 15 mars</guid>
+      <guid isPermaLink="false">9455 P Odoxa l'Obs le 15 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:44 +0000</pubDate>
     </item>
     <item>
@@ -5958,16 +5988,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:37 +0000</pubDate>
     </item>
     <item>
-      <title>9654 Ipsos - Le Parisien - Les élections législatives - Mai 2022</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9654-ipsos-le-parisien-les-elections-legislatives-mai-2022.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-05-20 18:08:15+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:36&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9654 Ipsos - Le Parisien - Les élections législatives - Mai 2022</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:36 +0000</pubDate>
-    </item>
-    <item>
       <title>9656 OpinionWay - 3e circonscription de l'Eure - JDD 22 mai</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9656-opinionway-3e-circonscription-de-l-eure-jdd-22-mai.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -5975,6 +5995,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:36&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9656 OpinionWay - 3e circonscription de l'Eure - JDD 22 mai</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>9655 4ème du Var Ifop JDD</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9655-4eme-du-var-ifop-jdd.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-05-20 15:00:36+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9655 4ème du Var Ifop JDD</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:36 +0000</pubDate>
     </item>
     <item>
@@ -6018,13 +6048,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:36 +0000</pubDate>
     </item>
     <item>
-      <title>9655 4ème du Var Ifop JDD</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9655-4eme-du-var-ifop-jdd.pdf</link>
+      <title>9654 Ipsos - Le Parisien - Les élections législatives - Mai 2022</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mai/9654-ipsos-le-parisien-les-elections-legislatives-mai-2022.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-05-20 15:00:36+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-05-20 18:08:15+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:36&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9655 4ème du Var Ifop JDD</guid>
+      <guid isPermaLink="false">9654 Ipsos - Le Parisien - Les élections législatives - Mai 2022</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:36 +0000</pubDate>
     </item>
     <item>
@@ -9268,16 +9298,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:38 +0000</pubDate>
     </item>
     <item>
-      <title>9101 P. EZ IFOP VA</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9101-p-ez-ifop-va.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-03-01 17:23:56+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:37&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9101 P. EZ IFOP VA</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:37 +0000</pubDate>
-    </item>
-    <item>
       <title>9142 Paca elabe Bfmtv</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9143-paca-elabe-bfmtv.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9285,6 +9305,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:37&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9142 Paca elabe Bfmtv</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>9101 P. EZ IFOP VA</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9101-p-ez-ifop-va.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-03-01 17:23:56+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:37&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9101 P. EZ IFOP VA</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:37 +0000</pubDate>
     </item>
     <item>
@@ -9388,16 +9418,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
     </item>
     <item>
-      <title>9143 Reg Baro Odoxa PQR</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9142-reg-baro-odoxa-pqr.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-05-24 18:48:34+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9143 Reg Baro Odoxa PQR</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
-    </item>
-    <item>
       <title>9135 Centre-Val-de-Loire Ipsos France bleu</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9135-centre-val-de-loire-ipsos-france-bleu.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9415,6 +9435,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9136 P. HI Challenges V2</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>9143 Reg Baro Odoxa PQR</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/mai/9142-reg-baro-odoxa-pqr.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-05-24 18:48:34+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:36&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9143 Reg Baro Odoxa PQR</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:36 +0000</pubDate>
     </item>
     <item>
@@ -9928,13 +9958,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>9151 AuRA OW C-News</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9151-aura-ow-c-news.pdf</link>
+      <title>9153 Grand Est OW Unissons nos énergies</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9153-grand-est-ow-unissons-nos-energies.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-01 20:37:51+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-03 15:51:38+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:25&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9151 AuRA OW C-News</guid>
+      <guid isPermaLink="false">9153 Grand Est OW Unissons nos énergies</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:25 +0000</pubDate>
     </item>
     <item>
@@ -9948,6 +9978,16 @@
       <pubDate>Fri, 08 Jul 2022 15:56:25 +0000</pubDate>
     </item>
     <item>
+      <title>9151 AuRA OW C-News</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9151-aura-ow-c-news.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-01 20:37:51+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:25&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9151 AuRA OW C-News</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:25 +0000</pubDate>
+    </item>
+    <item>
       <title>9152 IdF Elabe BFMTV</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9152-idf-elabe-bfmtv.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -9955,16 +9995,6 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:25&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9152 IdF Elabe BFMTV</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>9153 Grand Est OW Unissons nos énergies</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9153-grand-est-ow-unissons-nos-energies.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-03 15:51:38+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:25&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9153 Grand Est OW Unissons nos énergies</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:25 +0000</pubDate>
     </item>
     <item>
