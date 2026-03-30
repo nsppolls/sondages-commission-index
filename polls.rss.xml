@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 06:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:01:54 +0000</lastBuildDate>
+    <item>
+      <title>10166 Pres ELABE 28 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10166-pres-elabe-28-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-27 19:46:52+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-29 21:13:20&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10166 Pres ELABE 28 mars</guid>
+      <pubDate>Sun, 29 Mar 2026 21:13:20 +0000</pubDate>
+    </item>
     <item>
       <title>10165 Pres TOLUNA HARRIS INTERACTIVE 22 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10165-pres-toluna-harris-interactive-22-mars.pdf</link>
