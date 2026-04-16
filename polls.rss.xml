@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 06:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:02:24 +0000</lastBuildDate>
+    <item>
+      <title>10168 Pres Enquete electorale IPSOS BVA Le Monde 13 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10168-pres-enquete-electorale-ipsos-bva-le-monde-13-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-04-15 16:46:53+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-04-15 15:43:19&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10168 Pres Enquete electorale IPSOS BVA Le Monde 13 avril</guid>
+      <pubDate>Wed, 15 Apr 2026 15:43:19 +0000</pubDate>
+    </item>
     <item>
       <title>10167 Pres ODOXA 31 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10167-pres-odoxa-31-mars.pdf</link>
