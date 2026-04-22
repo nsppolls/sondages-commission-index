@@ -6,7 +6,27 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 06:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:01:23 +0000</lastBuildDate>
+    <item>
+      <title>10171 Pres Tbd personnalites politiques IFOP Paris Match 21 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10171-pres-tbd-personnalites-politiques-ifop-paris-match-21-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-04-21 10:48:09+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-04-21 12:35:12&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10171 Pres Tbd personnalites politiques IFOP Paris Match 21 avril</guid>
+      <pubDate>Tue, 21 Apr 2026 12:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>10170 Pres popularité E Macron S Lecornu IFOP Lopinion 19 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10170-pres-popularite-e-macron-s-lecornu-ifop-lopinion-19-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-04-20 11:28:19+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-04-21 12:34:39&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10170 Pres popularité E Macron S Lecornu IFOP Lopinion 19 avril</guid>
+      <pubDate>Tue, 21 Apr 2026 12:34:39 +0000</pubDate>
+    </item>
     <item>
       <title>10169 Pres Les Français et le président ideal ELABE 18 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10169-pres-les-francais-et-le-president-ideal-elabe-18-avril.pdf</link>
@@ -168,16 +188,6 @@
       <pubDate>Wed, 18 Mar 2026 16:56:39 +0000</pubDate>
     </item>
     <item>
-      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
-      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
-    </item>
-    <item>
       <title>10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-a-mun-comprendre-le-vote-ipsos-bva-france-tv-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -185,6 +195,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</guid>
+      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
     </item>
     <item>
@@ -4108,16 +4128,6 @@
       <pubDate>Mon, 29 Apr 2024 11:06:36 +0000</pubDate>
     </item>
     <item>
-      <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2024-04-26 20:33:35+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
-      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -4125,6 +4135,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
+      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2024-04-26 20:33:35+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
       <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
     </item>
     <item>
@@ -6318,13 +6338,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9679 OpinionWay 9e et 10e circo Nord</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9679-opinionway-9e-et-10e-circo-nord.pdf</link>
+      <title>9678 Harris Interactive - Challenges - V52 le 10 juin</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9678-harris-interactive-challenges-v52-le-10-juin.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-13 16:39:47+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-10 19:01:29+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9679 OpinionWay 9e et 10e circo Nord</guid>
+      <guid isPermaLink="false">9678 Harris Interactive - Challenges - V52 le 10 juin</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
@@ -6378,13 +6398,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9678 Harris Interactive - Challenges - V52 le 10 juin</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9678-harris-interactive-challenges-v52-le-10-juin.pdf</link>
+      <title>9679 OpinionWay 9e et 10e circo Nord</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9679-opinionway-9e-et-10e-circo-nord.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-10 19:01:29+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-13 16:39:47+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9678 Harris Interactive - Challenges - V52 le 10 juin</guid>
+      <guid isPermaLink="false">9679 OpinionWay 9e et 10e circo Nord</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
@@ -6478,16 +6498,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:31 +0000</pubDate>
     </item>
     <item>
-      <title>9665  Sagis 2022 06 06 législatives Circ 5 Ré union</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9665-sagis-2022-06-06-legislatives-circ-5-re-union.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:57:55+04:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9665  Sagis 2022 06 06 législatives Circ 5 Ré union</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9666 Harris Interactive - Challenges - V51 le 7 juin</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9666-harris-interactive-challenges-v51-le-7-juin.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -6495,6 +6505,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9666 Harris Interactive - Challenges - V51 le 7 juin</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9665  Sagis 2022 06 06 législatives Circ 5 Ré union</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9665-sagis-2022-06-06-legislatives-circ-5-re-union.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:57:55+04:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9665  Sagis 2022 06 06 législatives Circ 5 Ré union</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:31 +0000</pubDate>
     </item>
     <item>
@@ -10018,13 +10038,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:27 +0000</pubDate>
     </item>
     <item>
-      <title>9159 Idf Bva Orange RTL</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9159-idf-bva-orange-rtl.pdf</link>
+      <title>9160 IDF OW C-News</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9160-idf-ow-c-news.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-07 19:35:15+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-07 15:53:10+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:26&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9159 Idf Bva Orange RTL</guid>
+      <guid isPermaLink="false">9160 IDF OW C-News</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:26 +0000</pubDate>
     </item>
     <item>
@@ -10048,13 +10068,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>9160 IDF OW C-News</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9160-idf-ow-c-news.pdf</link>
+      <title>9159 Idf Bva Orange RTL</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9159-idf-bva-orange-rtl.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-07 15:53:10+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-07 19:35:15+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:26&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9160 IDF OW C-News</guid>
+      <guid isPermaLink="false">9159 Idf Bva Orange RTL</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:26 +0000</pubDate>
     </item>
     <item>
