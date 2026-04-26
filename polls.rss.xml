@@ -6,7 +6,7 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 06:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:01:41 +0000</lastBuildDate>
     <item>
       <title>10173 Pres Attal Retailleau ODOXA Le Figaro 23 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10173-pres-attal-retailleau-odoxa-le-figaro-23-avril.pdf</link>
@@ -798,13 +798,13 @@
       <pubDate>Wed, 25 Feb 2026 19:04:25 +0000</pubDate>
     </item>
     <item>
-      <title>10091 Mun Lyon Métropole Lyon Mag 25 fevrier</title>
+      <title>10091 Mun Lyon Métropole OPINIONWAY Lyon Mag 25 fevrier</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/fevrier/10091-mun-lyon-metropole-lyon-mag-25-fevrier.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2026-02-22 20:26:05+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : nan&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2026-02-25 13:29:13&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">10091 Mun Lyon Métropole Lyon Mag 25 fevrier</guid>
+      <guid isPermaLink="false">10091 Mun Lyon Métropole OPINIONWAY Lyon Mag 25 fevrier</guid>
       <pubDate>Wed, 25 Feb 2026 13:29:13 +0000</pubDate>
     </item>
     <item>
