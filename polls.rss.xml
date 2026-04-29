@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 06:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:01:10 +0000</lastBuildDate>
+    <item>
+      <title>10176 Pres Barometre ODOXA 28 avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10176-pres-barometre-odoxa-28-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-04-27 17:16:45+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-04-28 08:09:19&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10176 Pres Barometre ODOXA 28 avril</guid>
+      <pubDate>Tue, 28 Apr 2026 08:09:19 +0000</pubDate>
+    </item>
     <item>
       <title>10174 Pres Barometre confiance TOLUNA HARRIS INTERACTIVE LCI 24 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/avril/10174-pres-barometre-confiance-toluna-harris-interactive-lci-24-avril.pdf</link>
@@ -228,16 +238,6 @@
       <pubDate>Wed, 18 Mar 2026 16:56:39 +0000</pubDate>
     </item>
     <item>
-      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
-      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
-    </item>
-    <item>
       <title>10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-a-mun-comprendre-le-vote-ipsos-bva-france-tv-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -245,6 +245,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</guid>
+      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
     </item>
     <item>
@@ -4168,16 +4178,6 @@
       <pubDate>Mon, 29 Apr 2024 11:06:36 +0000</pubDate>
     </item>
     <item>
-      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
-      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -4185,6 +4185,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
+      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
       <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
     </item>
     <item>
@@ -6448,13 +6458,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>9669 Sagis 2022 06 06 législatives Circ 7 Ré union</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9669-sagis-2022-06-06-legislatives-circ-7-re-union.pdf</link>
+      <title>9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9670-ipsos-le-monde-fjj-cevipof-panel-electoral-vague-12.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:53+04:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 22:35:17+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9669 Sagis 2022 06 06 législatives Circ 7 Ré union</guid>
+      <guid isPermaLink="false">9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
@@ -6488,13 +6498,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9670-ipsos-le-monde-fjj-cevipof-panel-electoral-vague-12.pdf</link>
+      <title>9669 Sagis 2022 06 06 législatives Circ 7 Ré union</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9669-sagis-2022-06-06-legislatives-circ-7-re-union.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-07 22:35:17+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-07 09:58:53+04:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:32&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9670 Ipsos Le Monde FJJ Cevipof - Panel électoral Vague 12</guid>
+      <guid isPermaLink="false">9669 Sagis 2022 06 06 législatives Circ 7 Ré union</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:32 +0000</pubDate>
     </item>
     <item>
