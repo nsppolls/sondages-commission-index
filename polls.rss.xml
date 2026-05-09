@@ -6,7 +6,27 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 06:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:01:55 +0000</lastBuildDate>
+    <item>
+      <title>10185 Pres Barometre politique mai YOUGOV Huffpost 7 mai</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10187-pres-barometre-politique-mai-yougov-huffpost-7-mai.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-05-07 16:59:49+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-05-08 10:08:46&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10185 Pres Barometre politique mai YOUGOV Huffpost 7 mai</guid>
+      <pubDate>Fri, 08 May 2026 10:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>10184 Pres prix des carburants ELABE 7 mai</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10184-pres-prix-des-carburants-elabe-7-mai.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-05-07 14:27:09+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-05-08 10:02:34&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10184 Pres prix des carburants ELABE 7 mai</guid>
+      <pubDate>Fri, 08 May 2026 10:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>10183 Pres Observatoire politique ELABE 6 mai</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10183-pres-observatoire-politique-elabe-6-mai.pdf</link>
@@ -6448,16 +6468,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:34 +0000</pubDate>
     </item>
     <item>
-      <title>9675  Ipsos - Intentions de vote - 10 juin 2022 </title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9675-ipsos-intentions-de-vote-10-juin-2022.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-06-09 21:55:56+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9675  Ipsos - Intentions de vote - 10 juin 2022 </guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
-    </item>
-    <item>
       <title>9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9676-opinionway-kea-partners-les-echos-radio-classique-10-juin.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -6465,6 +6475,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9676 OpinionWay - Kea Partners - Les Echos - Radio Classique - 10 juin</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>9675  Ipsos - Intentions de vote - 10 juin 2022 </title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/juin/9675-ipsos-intentions-de-vote-10-juin-2022.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-06-09 21:55:56+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:33&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9675  Ipsos - Intentions de vote - 10 juin 2022 </guid>
       <pubDate>Fri, 08 Jul 2022 15:57:33 +0000</pubDate>
     </item>
     <item>
@@ -7048,16 +7068,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:25 +0000</pubDate>
     </item>
     <item>
-      <title>9281 RPW OP Kéa Les Échos</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9281-rpw-op-kea-les-echos.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-01-07 15:39:32+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:25&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9281 RPW OP Kéa Les Échos</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:25 +0000</pubDate>
-    </item>
-    <item>
       <title>9283 RPW  OW - Kea - Les Echos- radio Classique -  Notice à la Commission des  sondages - 10 janvier</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9283-rpw-ow-kea-les-echos-radio-classique-notice-a-la-commission-des-sondages-10-janvier.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -7065,6 +7075,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:25&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9283 RPW  OW - Kea - Les Echos- radio Classique -  Notice à la Commission des  sondages - 10 janvier</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>9281 RPW OP Kéa Les Échos</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9281-rpw-op-kea-les-echos.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-01-07 15:39:32+00:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:25&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9281 RPW OP Kéa Les Échos</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:25 +0000</pubDate>
     </item>
     <item>
@@ -10088,16 +10108,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:29 +0000</pubDate>
     </item>
     <item>
-      <title>9166 Centre VDL IPSOS France TV</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9166-centre-vdl-ipsos-france-tv.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-08 18:59:09+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:28&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9166 Centre VDL IPSOS France TV</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:28 +0000</pubDate>
-    </item>
-    <item>
       <title>9167 BFC IPSOS France TV</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9167-bfc-ipsos-france-tv.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -10105,6 +10115,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:28&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9167 BFC IPSOS France TV</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>9166 Centre VDL IPSOS France TV</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9166-centre-vdl-ipsos-france-tv.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-08 18:59:09+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:28&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9166 Centre VDL IPSOS France TV</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:28 +0000</pubDate>
     </item>
     <item>
