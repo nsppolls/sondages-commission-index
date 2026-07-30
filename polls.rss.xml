@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 06:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:06:12 +0000</lastBuildDate>
+    <item>
+      <title>10234 Indices popularité CSA JDD 25 juillet</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10234-indices-popularite-csa-jdd-25-juillet.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-07-27 09:45:39+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-07-27 07:45:32&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10234 Indices popularité CSA JDD 25 juillet</guid>
+      <pubDate>Mon, 27 Jul 2026 07:45:32 +0000</pubDate>
+    </item>
     <item>
       <title>10233 Pres Barometre stature vague 4 VERIAN Le Figaro Magazine 23 juillet</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10233-pres-barometre-stature-vague-4-verian-le-figaro-magazine-23-juillet.pdf</link>
@@ -828,16 +838,6 @@
       <pubDate>Wed, 18 Mar 2026 16:56:39 +0000</pubDate>
     </item>
     <item>
-      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
-      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
-    </item>
-    <item>
       <title>10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-a-mun-comprendre-le-vote-ipsos-bva-france-tv-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -845,6 +845,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">10153 a Mun Comprendre le vote IPSOS BVA France TV 15 mars</guid>
+      <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10153-b-mun-sociologie-des-absentionnistes-ipsos-bva-france-tv-15-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-03-15 17:17:50+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-03-16 12:10:08&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10153 b Mun Sociologie des absentionnistes IPSOS BVA France TV 15 mars</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:08 +0000</pubDate>
     </item>
     <item>
@@ -6078,13 +6088,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:47 +0000</pubDate>
     </item>
     <item>
-      <title>9472 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 6 - 18 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9472-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-6-18-mars.pdf</link>
+      <title>9471 P Bva Orange et RTL Le 18 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9471-p-bva-orange-et-rtl-le-18-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-18 14:38:05+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-17 17:49:33+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:46&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9472 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 6 - 18 mars</guid>
+      <guid isPermaLink="false">9471 P Bva Orange et RTL Le 18 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
@@ -6098,13 +6108,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>9471 P Bva Orange et RTL Le 18 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9471-p-bva-orange-et-rtl-le-18-mars.pdf</link>
+      <title>9472 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 6 - 18 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9472-ipsos-le-parisien-aujourd-hui-en-france-france-info-vague-6-18-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-17 17:49:33+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-18 14:38:05+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:46&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9471 P Bva Orange et RTL Le 18 mars</guid>
+      <guid isPermaLink="false">9472 Ipsos Le Parisien Aujourd'hui en France - France Info - Vague 6 - 18 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
@@ -10348,13 +10358,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9192 ARA OW CNEWS </title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9192-ara-ow-cnews.pdf</link>
+      <title>9193 Paca Ow Cnews</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9193-paca-ow-cnews.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-24 14:23:18+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-25 05:31:41+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9192 ARA OW CNEWS </guid>
+      <guid isPermaLink="false">9193 Paca Ow Cnews</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
@@ -10408,13 +10418,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9193 Paca Ow Cnews</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9193-paca-ow-cnews.pdf</link>
+      <title>9192 ARA OW CNEWS </title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9192-ara-ow-cnews.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-25 05:31:41+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-24 14:23:18+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9193 Paca Ow Cnews</guid>
+      <guid isPermaLink="false">9192 ARA OW CNEWS </guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
