@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 06:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:02:25 +0000</lastBuildDate>
+    <item>
+      <title>10238 Pres Barometre politique YOUGOV Huffpost 8 aout</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10238-pres-barometre-politique-yougov-huffpost-8-aout.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-08-06 16:58:20+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-08-13 07:29:38&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10238 Pres Barometre politique YOUGOV Huffpost 8 aout</guid>
+      <pubDate>Thu, 13 Aug 2026 07:29:38 +0000</pubDate>
+    </item>
     <item>
       <title>10237 Pres Baromètre Cluster17 Le Point Août</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10237-pres-barometre-cluster17-le-point-aout.pdf</link>
@@ -6118,13 +6128,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:47 +0000</pubDate>
     </item>
     <item>
-      <title>9471 P Bva Orange et RTL Le 18 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9471-p-bva-orange-et-rtl-le-18-mars.pdf</link>
+      <title>9470 RDP ifop PM 17 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9470-rdp-ifop-pm-17-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-17 17:49:33+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-17 14:57:15+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:46&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9471 P Bva Orange et RTL Le 18 mars</guid>
+      <guid isPermaLink="false">9470 RDP ifop PM 17 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
@@ -6148,13 +6158,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>9470 RDP ifop PM 17 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9470-rdp-ifop-pm-17-mars.pdf</link>
+      <title>9471 P Bva Orange et RTL Le 18 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9471-p-bva-orange-et-rtl-le-18-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-17 14:57:15+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-17 17:49:33+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:46&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9470 RDP ifop PM 17 mars</guid>
+      <guid isPermaLink="false">9471 P Bva Orange et RTL Le 18 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:46 +0000</pubDate>
     </item>
     <item>
@@ -10388,13 +10398,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9194 PACA Ifop Le Figaro</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9194-paca-ifop-le-figaro.pdf</link>
+      <title>9195 IDF Ifop Le Figaro</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9195-idf-ifop-le-figaro.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:30:50+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:39:45+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9194 PACA Ifop Le Figaro</guid>
+      <guid isPermaLink="false">9195 IDF Ifop Le Figaro</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
@@ -10428,13 +10438,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9195 IDF Ifop Le Figaro</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9195-idf-ifop-le-figaro.pdf</link>
+      <title>9194 PACA Ifop Le Figaro</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9194-paca-ifop-le-figaro.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:39:45+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:30:50+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9195 IDF Ifop Le Figaro</guid>
+      <guid isPermaLink="false">9194 PACA Ifop Le Figaro</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
