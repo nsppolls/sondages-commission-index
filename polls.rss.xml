@@ -6,7 +6,27 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 06:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:06:27 +0000</lastBuildDate>
+    <item>
+      <title>10242 Pres Barometre election pres IV V5 IFOP 26 aout</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-08-26 19:03:47+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-08-26 17:55:28&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10242 Pres Barometre election pres IV V5 IFOP 26 aout</guid>
+      <pubDate>Wed, 26 Aug 2026 17:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>10240 Pres Suivi potentiel electoral V8 TOLUNA HARRIS INTERACTIVE 26 aout</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10240-pres-suivi-potentiel-electoral-v8-toluna-harris-interactive-26-aout.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-08-25 18:10:27+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-08-26 06:36:04&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10240 Pres Suivi potentiel electoral V8 TOLUNA HARRIS INTERACTIVE 26 aout</guid>
+      <pubDate>Wed, 26 Aug 2026 06:36:04 +0000</pubDate>
+    </item>
     <item>
       <title>10239 Pres TOLUNA HARRIS INTERACTIVE RTL 24 aout</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf</link>
@@ -6348,16 +6368,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:44 +0000</pubDate>
     </item>
     <item>
-      <title>9453 OpinionWay CNEWS - Vague 18 le 15 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9453-opinionway-cnews-vague-18-le-15-mars.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-15 17:08:08+00:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:43&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9453 OpinionWay CNEWS - Vague 18 le 15 mars</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:43 +0000</pubDate>
-    </item>
-    <item>
       <title>9449 OpinionWay pour CNEWS - Notice à la commission - Vague 17 le 14 mars</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9449-opinionway-pour-cnews-notice-a-la-commission-vague-17-le-14-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -6365,6 +6375,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:43&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9449 OpinionWay pour CNEWS - Notice à la commission - Vague 17 le 14 mars</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>9452 RDP Ifop Pm 14 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9452-rdp-ifop-pm-14-mars.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-14 14:41:30+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:43&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9452 RDP Ifop Pm 14 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:43 +0000</pubDate>
     </item>
     <item>
@@ -6398,13 +6418,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:43 +0000</pubDate>
     </item>
     <item>
-      <title>9452 RDP Ifop Pm 14 mars</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9452-rdp-ifop-pm-14-mars.pdf</link>
+      <title>9453 OpinionWay CNEWS - Vague 18 le 15 mars</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9453-opinionway-cnews-vague-18-le-15-mars.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-03-14 14:41:30+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-03-15 17:08:08+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:43&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9452 RDP Ifop Pm 14 mars</guid>
+      <guid isPermaLink="false">9453 OpinionWay CNEWS - Vague 18 le 15 mars</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:43 +0000</pubDate>
     </item>
     <item>
@@ -10408,13 +10428,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9195 IDF Ifop Le Figaro</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9195-idf-ifop-le-figaro.pdf</link>
+      <title>9196 HDF OW C news</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9196-hdf-ow-c-news.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:39:45+02:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-25 13:12:45+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9195 IDF Ifop Le Figaro</guid>
+      <guid isPermaLink="false">9196 HDF OW C news</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
@@ -10438,13 +10458,13 @@
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>9196 HDF OW C news</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9196-hdf-ow-c-news.pdf</link>
+      <title>9195 IDF Ifop Le Figaro</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/juin/9195-idf-ifop-le-figaro.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-06-25 13:12:45+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-06-25 12:39:45+02:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:34&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9196 HDF OW C news</guid>
+      <guid isPermaLink="false">9195 IDF Ifop Le Figaro</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:34 +0000</pubDate>
     </item>
     <item>
