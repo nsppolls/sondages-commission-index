@@ -6,7 +6,27 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 06:04:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:04:53 +0000</lastBuildDate>
+    <item>
+      <title>10328 Pres Attentes reformes IFOP 21 octobre</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10328-pres-attentes-reformes-ifop-21-octobre.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-10-21 12:30:21+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-10-21 13:20:35&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10328 Pres Attentes reformes IFOP 21 octobre</guid>
+      <pubDate>Wed, 21 Oct 2026 13:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>10327 Pres Barometre election V7 IFOP 20 octobre</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-10-20 17:39:27+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-10-21 07:32:10&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10327 Pres Barometre election V7 IFOP 20 octobre</guid>
+      <pubDate>Wed, 21 Oct 2026 07:32:10 +0000</pubDate>
+    </item>
     <item>
       <title>10326 Pres Tableau de bord des personnalites IFOP 20 octobre</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10326-pres-tableau-de-bord-des-personnalites-ifop-20-octobre.pdf</link>
@@ -5708,16 +5728,6 @@
       <pubDate>Mon, 29 Apr 2024 11:06:36 +0000</pubDate>
     </item>
     <item>
-      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
-      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
-    </item>
-    <item>
       <title>9764 Eur BVA RTL - vague 3 - Le 29 avril</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9764-eur-bva-rtl-vague-3-le-29-avril.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -5725,6 +5735,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9764 Eur BVA RTL - vague 3 - Le 29 avril</guid>
+      <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9763-ipsos-le-monde-cevipof-fjj-institut-montaigne-vague-4-le-29-avril.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2024-04-26 19:05:20+02:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2024-04-29 11:06:31&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9763 Eur Ipsos Le Monde Cevipof FJJ Institut Montaigne - Vague 4 Le 29 Avril</guid>
       <pubDate>Mon, 29 Apr 2024 11:06:31 +0000</pubDate>
     </item>
     <item>
@@ -10808,16 +10828,6 @@
       <pubDate>Fri, 08 Jul 2022 15:56:41 +0000</pubDate>
     </item>
     <item>
-      <title>9242 P BVA CNews</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9242-p-bva-cnews.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2021-11-18 19:55:19+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:40&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9242 P BVA CNews</guid>
-      <pubDate>Fri, 08 Jul 2022 15:56:40 +0000</pubDate>
-    </item>
-    <item>
       <title>9243 Prési Track 3 OW Les Échos</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9243-presi-track-3-ow-les-echos.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -10825,6 +10835,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:40&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9243 Prési Track 3 OW Les Échos</guid>
+      <pubDate>Fri, 08 Jul 2022 15:56:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>9242 P BVA CNews</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2021/novembre/9242-p-bva-cnews.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2021-11-18 19:55:19+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:56:40&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9242 P BVA CNews</guid>
       <pubDate>Fri, 08 Jul 2022 15:56:40 +0000</pubDate>
     </item>
     <item>
