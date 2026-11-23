@@ -15,7 +15,7 @@ jobs:
           ref: ${{ github.head_ref }}
       - uses: "actions/setup-python@v2"
         with:
-          python-version: "3.9"
+          python-version: "3.15"
       - run: wget -qO- https://astral.sh/uv/install.sh | sh
       - run: uv run scripts/scrap.py
       - run: uv run scripts/download.py
