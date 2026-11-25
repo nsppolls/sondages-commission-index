@@ -6,7 +6,17 @@
     <description>hello</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 06:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:04:10 +0000</lastBuildDate>
+    <item>
+      <title>10395 Pres barometre politique ODOXA 24 novembre</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10395-pres-barometre-politique-odoxa-24-novembre.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2026-11-19 17:19:58+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2026-11-24 08:20:27&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">10395 Pres barometre politique ODOXA 24 novembre</guid>
+      <pubDate>Tue, 24 Nov 2026 08:20:27 +0000</pubDate>
+    </item>
     <item>
       <title>10394 Pres indices popularite IFOP 22 novembre</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10394-pres-indices-popularite-ifop-22-novembre.pdf</link>
@@ -8938,16 +8948,6 @@
       <pubDate>Fri, 08 Jul 2022 15:57:28 +0000</pubDate>
     </item>
     <item>
-      <title>9304 RDP Ifop PM</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9304-rdp-ifop-pm.pdf</link>
-      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-01-20 16:49:08+01:00&lt;/li&gt;
-&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:28&lt;/li&gt;
-&lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9304 RDP Ifop PM</guid>
-      <pubDate>Fri, 08 Jul 2022 15:57:28 +0000</pubDate>
-    </item>
-    <item>
       <title>9306 RDP Ifop PM</title>
       <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9306-rdp-ifop-pm.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
@@ -8965,6 +8965,16 @@
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:28&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">9307 P OW Cnews</guid>
+      <pubDate>Fri, 08 Jul 2022 15:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>9304 RDP Ifop PM</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9304-rdp-ifop-pm.pdf</link>
+      <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-01-20 16:49:08+01:00&lt;/li&gt;
+&lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:28&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">9304 RDP Ifop PM</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:28 +0000</pubDate>
     </item>
     <item>
@@ -9248,13 +9258,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:24 +0000</pubDate>
     </item>
     <item>
-      <title>9279 P BVA RTL Orange -  V 4 - Notice. pdf</title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9279-p-bva-rtl-orange-v-4-notice-pdf.pdf</link>
+      <title>9278 RPW OW Kéa Les échos  </title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9278-rpw-ow-kea-les-echos.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-01-06 21:51:29+01:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-01-06 10:55:59+00:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:24&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9279 P BVA RTL Orange -  V 4 - Notice. pdf</guid>
+      <guid isPermaLink="false">9278 RPW OW Kéa Les échos  </guid>
       <pubDate>Fri, 08 Jul 2022 15:57:24 +0000</pubDate>
     </item>
     <item>
@@ -9278,13 +9288,13 @@
       <pubDate>Fri, 08 Jul 2022 15:57:24 +0000</pubDate>
     </item>
     <item>
-      <title>9278 RPW OW Kéa Les échos  </title>
-      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9278-rpw-ow-kea-les-echos.pdf</link>
+      <title>9279 P BVA RTL Orange -  V 4 - Notice. pdf</title>
+      <link>http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9279-p-bva-rtl-orange-v-4-notice-pdf.pdf</link>
       <description>&lt;span class="markdown prose dark:prose-invert contents"&gt;&lt;ul&gt;
-&lt;li&gt;date de création du fichier pdf : 2022-01-06 10:55:59+00:00&lt;/li&gt;
+&lt;li&gt;date de création du fichier pdf : 2022-01-06 21:51:29+01:00&lt;/li&gt;
 &lt;li&gt;date d'upload du fichier pdf : 2022-07-08 15:57:24&lt;/li&gt;
 &lt;/ul&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">9278 RPW OW Kéa Les échos  </guid>
+      <guid isPermaLink="false">9279 P BVA RTL Orange -  V 4 - Notice. pdf</guid>
       <pubDate>Fri, 08 Jul 2022 15:57:24 +0000</pubDate>
     </item>
     <item>
